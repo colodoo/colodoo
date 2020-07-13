@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently using `Java` `Python` `JavaScript`
+- 🌱 I’m currently using `Java` `JavaScript`
