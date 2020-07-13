@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](http://www.nyan.cat/cats/dub.gif)
-![](http://www.nyan.cat/cats/jazz.gif)
